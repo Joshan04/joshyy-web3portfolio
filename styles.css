@@ -68,7 +68,6 @@ a { color: inherit; }
 .site-header nav a { color: var(--muted); font-size: 13px; text-decoration: none; font-weight: 500; transition: color 0.15s ease; }
 .site-header nav a:hover { color: var(--rust-deep); }
 .site-header nav .nav-contact { color: var(--ink); border-bottom: 1px solid var(--rust); padding: 4px 0; }
-.nav-contact span { color: var(--rust); margin-left: 6px; }
 
 /* Enclosed Section Cards */
 .hero,
@@ -366,7 +365,6 @@ html.js-ready .is-visible .service-panel:nth-child(4) {
   text-decoration: none;
   transition: color 0.15s ease, border-color 0.15s ease;
 }
-.underlined-link span { margin-left: 6px; color: #dda160; }
 .underlined-link:hover { color: #dda160; border-color: #dda160; }
 
 /* Floating Toast */
